@@ -22,6 +22,7 @@ class starter {
 		 double num2 = sc.nextDouble();
 		 System.out.println("");
 		 System.out.println("Maximum number of x and y is:"+(Math.max(num1)+","+(num2)));
+		 
 
 
 	}
