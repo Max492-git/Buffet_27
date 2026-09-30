@@ -21,7 +21,7 @@ class starter {
 		 System.out.println("Please enter another double:");
 		 double num2 = sc.nextDouble();
 		 System.out.println("");
-		 System.out.println("Maximum number of x and y is:"+(Math.max(num1)+","+(num2)));
+		 System.out.println("Maximum number of x and y is:"+(Math.max(num1,num2)));
 		 
 
 
