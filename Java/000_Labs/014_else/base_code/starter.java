@@ -21,7 +21,7 @@ class starter {
 			 System.out.print("Your number wasn't the random number. ");
 			}
 			System.out.print("The number was ");
-			System.out.print(num2);
+			System.out.println(num2);
 
 		 
 		
