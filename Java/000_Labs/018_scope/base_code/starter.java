@@ -8,9 +8,9 @@ import java.util.*;
 public class starter {
     public static void main(String[] args) {
         int number = 10;
-
+        String message = new String();
         if (number > 5) {
-            String message = "Number is greater than 5!";
+            String message ="Number is greater than 5!";
         }
 
         System.out.println(message);
