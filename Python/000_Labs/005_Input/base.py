@@ -1,0 +1,5 @@
+text1= input("Who's birthday is it?")
+print("Happy birthday, to you.")
+print("Happy birthday, to you.")
+print("Happy birthday, dear " + text1)
+print("Happy birthday, to you!")
