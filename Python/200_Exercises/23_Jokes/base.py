@@ -12,3 +12,5 @@ joke = requests.get("https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religio
 
 
 x = int(input("How many jokes do you want"))
+
+
