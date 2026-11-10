@@ -10,3 +10,5 @@ joke = requests.get("https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religio
 # joke["setup"] -> References the String of the setup of the joke
 # joke["delivery"] -> References the String of the delivery part of the joke
 
+
+x = int(input("How many jokes do you want"))
