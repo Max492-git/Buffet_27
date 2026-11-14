@@ -1,0 +1,3 @@
+import random
+thislist = ["I used to be a banker, but I lost interest.","I told a chemistry joke once, but it didn't get much of a reaction.", "I can't believe I got fired from the calendar factory: all I did was take a day off.", "My wife thinks I'm a control freak, and I haven't decided yet whether she's right." , "I'm reading a book about anti-gravity, and I just can't put it down."]
+print(thislist[random.randrange(5)])
